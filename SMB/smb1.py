@@ -9,7 +9,7 @@ with open('text.txt', 'r') as file_data:
         #print(data[0] ,data[2])
         print('-----------' + data[1]+'.txt' + '----------')
         for i in data:
-            cmd = 'tree ' + data[0] + data[2]
+            cmd = 'tree ' + '\\' data[0] + '\' data[2]
         Info = os.system(cmd)
             #f = open(data[1]+'.txt', 'w')
             #subprocess.call(cmd, stdout= f)
