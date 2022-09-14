@@ -1,0 +1,2 @@
+C:\\users\dara0\, X_server,SMB, Read Only
+C:\\users\dara0\, Y_server,Documents, Read and Write

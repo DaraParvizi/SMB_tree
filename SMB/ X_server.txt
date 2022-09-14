@@ -1,0 +1,6 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 7E9D-964E
+C:\USERS\DARA0\SMB
++---Hej
+    +---med
+        +---dig
